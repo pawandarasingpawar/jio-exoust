@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+.box{
+    height: 100px;
+    width:screen;
+    background-color:#0f3cc9;
+}
+
+.recharge{
+    border-radius: 10px;
+    line-height: 36px;
+    color: white;
+    background-color: #0f3cc9;
+}
+.one{
+    height: 56px;
+    width: 100px;
+    border-radius: 10%;
+}
+.two{
+    height: 56px;
+    width: 100px;
+    border-radius: 10%;
+}
+a{
+    text-decoration: none;
+}
